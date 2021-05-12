@@ -30,7 +30,7 @@ the software.
         <security.version>4.2.2.RELEASE</security.version>
         <jersey.version>1.19.1</jersey.version>
         <swagger.version>1.5.16</swagger.version>
-        <solr.version>4.10.4</solr.version>
+        <solr.version>8.8.2</solr.version>
         <aspectj.version>1.8.4</aspectj.version>
         <jena.version>3.0.0</jena.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
