@@ -37,7 +37,7 @@ the software.
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <servlet.port>9437</servlet.port>
         <ajp.port>9438</ajp.port>
-        <aws.version>1.11.32</aws.version>
+        <aws.version>1.12.261</aws.version>
         <main.basedir>${project.basedir}</main.basedir>
     </properties>
 
